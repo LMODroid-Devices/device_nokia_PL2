@@ -16,9 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_PL2.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_PL2-eng \
-    lmodroid_PL2-user \
-    lmodroid_PL2-userdebug
-
